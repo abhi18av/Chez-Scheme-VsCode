@@ -1,21 +1,19 @@
 # Scheme Language Support for Visual Studio Code
 
-This extension add Scheme language support to VS Code.
+This extension is a fork of the generic Scheme language support to VS Code and builds upon the [`vscode-scheme`](https://github.com/sjhuangx/vscode-scheme) extension.
 
 ## Features
-* Syntax Coloring
 
-![](https://raw.githubusercontent.com/sjhuangx/vscode-scheme/master/images/syntax.png)
+https://github.com/abhi18av/Chez-Scheme-VsCode
 
-* Snippets
+- Syntax Coloring
 
-![](https://raw.githubusercontent.com/sjhuangx/vscode-scheme/master/images/snippets.gif)
+![](https://raw.githubusercontent.com/abhi18av/Chez-Scheme-VsCode/master/images/syntax.png)
+
+- Snippets
+
+![](https://raw.githubusercontent.com/abhi18av/Chez-Scheme-VsCode/master/images/snippets.gif)
 
 support following snippets: cond, define, if, lambda, let, let1, set!.
-
-## Credits
-This extension use a file that egrachev's sublime-scheme to enable syntax on vscode.
-
-[https://github.com/egrachev/sublime-scheme/blob/master/Scheme.tmLanguage](https://github.com/egrachev/sublime-scheme/blob/master/Scheme.tmLanguage)
 
 **Enjoy!**
